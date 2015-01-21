@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/2001/trunk/ros-pkg/launch/tests
+END
+test_stereo_data_recorder.launch
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/1850/trunk/ros-pkg/launch/tests/test_stereo_data_recorder.launch
+END
+test_pointxyzrgb.launch
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/1344/trunk/ros-pkg/launch/tests/test_pointxyzrgb.launch
+END
+test_odometry.launch
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/1847/trunk/ros-pkg/launch/tests/test_odometry.launch
+END
+test_stereo_odometry.launch
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/2001/trunk/ros-pkg/launch/tests/test_stereo_odometry.launch
+END
+bumblebee.launch
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/1850/trunk/ros-pkg/launch/tests/bumblebee.launch
+END

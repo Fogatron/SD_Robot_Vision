@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/svn/!svn/ver/1931/trunk/ros-pkg/srv
+END
+ResetPose.srv
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/1931/trunk/ros-pkg/srv/ResetPose.srv
+END
+GetMap.srv
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/1459/trunk/ros-pkg/srv/GetMap.srv
+END
+PublishMap.srv
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/1682/trunk/ros-pkg/srv/PublishMap.srv
+END

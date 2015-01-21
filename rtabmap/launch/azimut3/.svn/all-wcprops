@@ -1,0 +1,101 @@
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/2004/trunk/ros-pkg/launch/azimut3
+END
+az3_mapping_robot.launch
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/1674/trunk/ros-pkg/launch/azimut3/az3_mapping_robot.launch
+END
+az3_mapping_robot_kinect_scan.launch
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/1763/trunk/ros-pkg/launch/azimut3/az3_mapping_robot_kinect_scan.launch
+END
+az3_mapping_robot_nav.launch
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/2004/trunk/ros-pkg/launch/azimut3/az3_mapping_robot_nav.launch
+END
+az3_bag_mapping.launch
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/1639/trunk/ros-pkg/launch/azimut3/az3_bag_mapping.launch
+END
+az3_mapping_robot_kinect_odom.launch
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/1674/trunk/ros-pkg/launch/azimut3/az3_mapping_robot_kinect_odom.launch
+END
+az3_remote_mapping_robot.launch
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/1674/trunk/ros-pkg/launch/azimut3/az3_remote_mapping_robot.launch
+END
+az3_mapping_client_stereo_nav.launch
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/2004/trunk/ros-pkg/launch/azimut3/az3_mapping_client_stereo_nav.launch
+END
+az3_remote_mapping_rviz.launch
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/1675/trunk/ros-pkg/launch/azimut3/az3_remote_mapping_rviz.launch
+END
+az3_remote_find_object.launch
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/1638/trunk/ros-pkg/launch/azimut3/az3_remote_find_object.launch
+END
+az3_db_record.launch
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/1674/trunk/ros-pkg/launch/azimut3/az3_db_record.launch
+END
+az3_mapping_robot_stereo_nav.launch
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/2001/trunk/ros-pkg/launch/azimut3/az3_mapping_robot_stereo_nav.launch
+END
+az3_bag_record.launch
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/1908/trunk/ros-pkg/launch/azimut3/az3_bag_record.launch
+END
+az3_openni.launch
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/1674/trunk/ros-pkg/launch/azimut3/az3_openni.launch
+END
+az3_mapping_client.launch
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/2004/trunk/ros-pkg/launch/azimut3/az3_mapping_client.launch
+END
+az3_mapping_client_nav.launch
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/2004/trunk/ros-pkg/launch/azimut3/az3_mapping_client_nav.launch
+END
+az3_mapping_robot_kinect_only.launch
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/1538/trunk/ros-pkg/launch/azimut3/az3_mapping_robot_kinect_only.launch
+END

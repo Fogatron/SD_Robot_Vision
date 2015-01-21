@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/1938/trunk/ros-pkg/src/rviz
+END
+MapGraphDisplay.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/1682/trunk/ros-pkg/src/rviz/MapGraphDisplay.cpp
+END
+InfoDisplay.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/1634/trunk/ros-pkg/src/rviz/InfoDisplay.h
+END
+OrbitOrientedViewController.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/1634/trunk/ros-pkg/src/rviz/OrbitOrientedViewController.cpp
+END
+MapCloudDisplay.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/1938/trunk/ros-pkg/src/rviz/MapCloudDisplay.cpp
+END
+MapGraphDisplay.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/1682/trunk/ros-pkg/src/rviz/MapGraphDisplay.h
+END
+OrbitOrientedViewController.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/1634/trunk/ros-pkg/src/rviz/OrbitOrientedViewController.h
+END
+MapCloudDisplay.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/1805/trunk/ros-pkg/src/rviz/MapCloudDisplay.h
+END
+InfoDisplay.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/1634/trunk/ros-pkg/src/rviz/InfoDisplay.cpp
+END

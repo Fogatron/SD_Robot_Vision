@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/1973/trunk/ros-pkg/launch/calibration
+END
+depth_PS1080_PrimeSense.yaml
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/1481/trunk/ros-pkg/launch/calibration/depth_PS1080_PrimeSense.yaml
+END
+00b09d010081e00e_left.yaml
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/1973/trunk/ros-pkg/launch/calibration/00b09d010081e00e_left.yaml
+END
+00b09d010081e00e_right.yaml
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/1973/trunk/ros-pkg/launch/calibration/00b09d010081e00e_right.yaml
+END
+rgb_PS1080_PrimeSense.yaml
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/1481/trunk/ros-pkg/launch/calibration/rgb_PS1080_PrimeSense.yaml
+END

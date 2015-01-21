@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/2051/trunk/ros-pkg/launch/config
+END
+find_object.ini
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/1642/trunk/ros-pkg/launch/config/find_object.ini
+END
+azimut3.rviz
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/1909/trunk/ros-pkg/launch/config/azimut3.rviz
+END
+rgbd.rviz
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/1999/trunk/ros-pkg/launch/config/rgbd.rviz
+END
+azimut3_nav.rviz
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2005/trunk/ros-pkg/launch/config/azimut3_nav.rviz
+END
+demo_stereo_outdoor.rviz
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/1996/trunk/ros-pkg/launch/config/demo_stereo_outdoor.rviz
+END
+azimut3_stereo_nav.rviz
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/2004/trunk/ros-pkg/launch/config/azimut3_stereo_nav.rviz
+END
+test_odometry.rviz
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/1663/trunk/ros-pkg/launch/config/test_odometry.rviz
+END
+demo_robot_mapping.rviz
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/2051/trunk/ros-pkg/launch/config/demo_robot_mapping.rviz
+END
+rgbd_gui.ini
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/1938/trunk/ros-pkg/launch/config/rgbd_gui.ini
+END
+appearance_gui.ini
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/1269/trunk/ros-pkg/launch/config/appearance_gui.ini
+END

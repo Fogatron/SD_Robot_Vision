@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 32
+/svn/!svn/ver/2055/trunk/ros-pkg
+END
+LICENSE
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/1655/trunk/ros-pkg/LICENSE
+END
+.project
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/1850/trunk/ros-pkg/.project
+END
+eclipse-launch.sh
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/1269/trunk/ros-pkg/eclipse-launch.sh
+END
+.cproject
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/1850/trunk/ros-pkg/.cproject
+END
+package.xml
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/1968/trunk/ros-pkg/package.xml
+END
+nodelet_plugins.xml
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/1923/trunk/ros-pkg/nodelet_plugins.xml
+END
+mainpage.dox
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/1269/trunk/ros-pkg/mainpage.dox
+END
+Readme.txt
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/1636/trunk/ros-pkg/Readme.txt
+END
+CMakeLists.txt
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/1945/trunk/ros-pkg/CMakeLists.txt
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/1269/trunk/ros-pkg/Makefile
+END
+plugin_description.xml
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/1682/trunk/ros-pkg/plugin_description.xml
+END

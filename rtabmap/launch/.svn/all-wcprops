@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/2055/trunk/ros-pkg/launch
+END
+rgbd_mapping.launch
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/1850/trunk/ros-pkg/launch/rgbd_mapping.launch
+END
+data_recorder.launch
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/1269/trunk/ros-pkg/launch/data_recorder.launch
+END
+rgbd_localization_rviz.launch
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/1850/trunk/ros-pkg/launch/rgbd_localization_rviz.launch
+END
+rgbd_mapping_rviz.launch
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/1850/trunk/ros-pkg/launch/rgbd_mapping_rviz.launch
+END
+rgbd_localization.launch
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/1850/trunk/ros-pkg/launch/rgbd_localization.launch
+END

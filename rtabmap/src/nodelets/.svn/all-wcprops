@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/1945/trunk/ros-pkg/src/nodelets
+END
+obstacles_detection.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/1945/trunk/ros-pkg/src/nodelets/obstacles_detection.cpp
+END
+data_throttle.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/1634/trunk/ros-pkg/src/nodelets/data_throttle.cpp
+END
+disparity_to_depth.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/1658/trunk/ros-pkg/src/nodelets/disparity_to_depth.cpp
+END
+data_odom_sync.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/1634/trunk/ros-pkg/src/nodelets/data_odom_sync.cpp
+END
+point_cloud_xyzrgb.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/1923/trunk/ros-pkg/src/nodelets/point_cloud_xyzrgb.cpp
+END
+stereo_throttle.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/1895/trunk/ros-pkg/src/nodelets/stereo_throttle.cpp
+END
+point_cloud_xyz.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/1923/trunk/ros-pkg/src/nodelets/point_cloud_xyz.cpp
+END

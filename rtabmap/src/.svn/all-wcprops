@@ -1,0 +1,125 @@
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/svn/!svn/ver/2051/trunk/ros-pkg/src
+END
+MsgConversion.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/1938/trunk/ros-pkg/src/MsgConversion.cpp
+END
+CameraNode.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/1654/trunk/ros-pkg/src/CameraNode.cpp
+END
+CoreNode.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/1931/trunk/ros-pkg/src/CoreNode.cpp
+END
+CoreWrapper.h
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/2003/trunk/ros-pkg/src/CoreWrapper.h
+END
+PreferencesDialogROS.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/1634/trunk/ros-pkg/src/PreferencesDialogROS.cpp
+END
+DataRecorderNode.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/1850/trunk/ros-pkg/src/DataRecorderNode.cpp
+END
+VisualOdometryDEPRECATED.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/1850/trunk/ros-pkg/src/VisualOdometryDEPRECATED.cpp
+END
+RGBDOdometryNode.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/1850/trunk/ros-pkg/src/RGBDOdometryNode.cpp
+END
+DbPlayerNode.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/1945/trunk/ros-pkg/src/DbPlayerNode.cpp
+END
+PreferencesDialogROS.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/1634/trunk/ros-pkg/src/PreferencesDialogROS.h
+END
+MapAssemblerNode.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/1963/trunk/ros-pkg/src/MapAssemblerNode.cpp
+END
+GuiWrapper.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/1941/trunk/ros-pkg/src/GuiWrapper.cpp
+END
+OdometryROS.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/1996/trunk/ros-pkg/src/OdometryROS.cpp
+END
+MapOptimizerNode.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/1941/trunk/ros-pkg/src/MapOptimizerNode.cpp
+END
+GridMapAssemblerNode.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/1963/trunk/ros-pkg/src/GridMapAssemblerNode.cpp
+END
+CoreWrapper.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/2051/trunk/ros-pkg/src/CoreWrapper.cpp
+END
+GuiWrapper.h
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/1634/trunk/ros-pkg/src/GuiWrapper.h
+END
+GuiNode.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/1634/trunk/ros-pkg/src/GuiNode.cpp
+END
+StereoOdometryNode.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/1983/trunk/ros-pkg/src/StereoOdometryNode.cpp
+END
+OdometryROS.h
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/1984/trunk/ros-pkg/src/OdometryROS.h
+END

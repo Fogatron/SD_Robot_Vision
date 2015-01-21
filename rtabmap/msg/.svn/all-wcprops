@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/svn/!svn/ver/1941/trunk/ros-pkg/msg
+END
+Info.msg
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/1929/trunk/ros-pkg/msg/Info.msg
+END
+NodeData.msg
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/1941/trunk/ros-pkg/msg/NodeData.msg
+END
+KeyPoint.msg
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/1269/trunk/ros-pkg/msg/KeyPoint.msg
+END
+Bytes.msg
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/1269/trunk/ros-pkg/msg/Bytes.msg
+END
+MapData.msg
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/1929/trunk/ros-pkg/msg/MapData.msg
+END
+InfoEx.msg
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/1929/trunk/ros-pkg/msg/InfoEx.msg
+END

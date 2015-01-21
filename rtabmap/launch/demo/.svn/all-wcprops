@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/2055/trunk/ros-pkg/launch/demo
+END
+demo_multi-session_mapping.launch
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/1996/trunk/ros-pkg/launch/demo/demo_multi-session_mapping.launch
+END
+demo_find_object.launch
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/1645/trunk/ros-pkg/launch/demo/demo_find_object.launch
+END
+kinect_frames.launch
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/1269/trunk/ros-pkg/launch/demo/kinect_frames.launch
+END
+demo_appearance_localization.launch
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/1269/trunk/ros-pkg/launch/demo/demo_appearance_localization.launch
+END
+demo_robot_mapping_rviz.launch
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/2051/trunk/ros-pkg/launch/demo/demo_robot_mapping_rviz.launch
+END
+demo_appearance_mapping.launch
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/1269/trunk/ros-pkg/launch/demo/demo_appearance_mapping.launch
+END
+demo_stereo_outdoor.launch
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/2008/trunk/ros-pkg/launch/demo/demo_stereo_outdoor.launch
+END
+demo_robot_localization.launch
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/2055/trunk/ros-pkg/launch/demo/demo_robot_localization.launch
+END
+demo_data_recorder.launch
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/1269/trunk/ros-pkg/launch/demo/demo_data_recorder.launch
+END
+demo_robot_mapping.launch
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/2051/trunk/ros-pkg/launch/demo/demo_robot_mapping.launch
+END
+demo_stereo_pr2.launch
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/1838/trunk/ros-pkg/launch/demo/demo_stereo_pr2.launch
+END
